@@ -6,7 +6,7 @@ import os
 # This script use a previously created IAM Role and associated with a DB User
 # Useful to control the access to a DB using IAM
 # Follow these instructions:
-# https://gist.github.com/jorgeluishdez/9034301578ad29a7aaffa4c8acc19849
+# https://gist.github.com/15be79777e619fddc364fab76e40fd3e
 
 # rds_endpoint = 'my-db-cluster.cluster-12345678.us-east-1.rds.amazonaws.com'
 # db_user = 'testapp'
